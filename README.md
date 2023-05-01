@@ -1,5 +1,5 @@
 # pesquisa-de-paises
-Pesquisador de países utilizando API<br>
+Pesquisador de países utilizando API e Bootstrap<br>
 ![image](https://user-images.githubusercontent.com/114596345/235491511-eccf5ec4-d1bf-4f45-ba73-f0208e150e15.png)<br>
 O site se apresenta dessa forma. 
 
