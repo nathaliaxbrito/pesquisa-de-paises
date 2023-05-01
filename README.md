@@ -10,5 +10,9 @@ O nome do país deve ser digitado em inglês.
 _______________________________________________________________________________________________________________
 Clica em pesquisar e...
 ![image](https://user-images.githubusercontent.com/114596345/235492333-240654ac-96f2-4043-aa56-8f06f3872f61.png)<br>
-Voilà.
-Nos é apresentado o país com sua respectiva bandeira, capital e população.
+Voilà.<br>
+Nos é apresentado o país com sua respectiva bandeira, capital, continente e população.
+
+________________________________________________________________________________________________________________
+Deploy:
+https://glittering-pothos-6a7f73.netlify.app/
