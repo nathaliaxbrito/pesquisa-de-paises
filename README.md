@@ -1,5 +1,5 @@
 # pesquisa-de-paises
-Pesquisador de países utilizando API
+Pesquisador de países utilizando API<br>
 ![image](https://user-images.githubusercontent.com/114596345/235491511-eccf5ec4-d1bf-4f45-ba73-f0208e150e15.png)<br>
 O site se apresenta dessa forma. 
 
@@ -8,7 +8,7 @@ ________________________________________________________________________________
 O nome do país deve ser digitado em inglês.
 
 _______________________________________________________________________________________________________________
-Clica em pesquisar e...
+Clica em pesquisar e...<br>
 ![image](https://user-images.githubusercontent.com/114596345/235492333-240654ac-96f2-4043-aa56-8f06f3872f61.png)<br>
 Voilà.<br>
 Nos é apresentado o país com sua respectiva bandeira, capital, continente e população.
